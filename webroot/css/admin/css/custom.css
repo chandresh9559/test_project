@@ -1,0 +1,102 @@
+
+.admin_login{
+
+    height: 917px;
+    background: rgb(45,213,253);
+    padding-top:300px ;
+  
+}
+
+.add_emp{
+  float: right;
+}
+
+.user_img{
+
+  border-radius: 20%;
+  height: 100px;
+  width: 170px;
+  
+}
+.info{
+  color: white;
+  margin: 20px;
+}
+
+.post-left{
+  background-color: white;
+}
+
+.user_profile{
+
+  height: 50px;
+  width: 50px;
+
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+.user_profile1{
+
+  height: 50px;
+  width: 50px;
+  border: 1px solid gray;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+.user_post{
+
+  height: 200px;
+  width: 200px;
+  border-radius: 5%;
+  margin: 20px;
+}
+
+.caption{
+  margin: 10px;
+}
+
+.index{
+  margin-bottom: 250px;
+}
+
+.edit_profile{
+  background: url('../css/bg-img.jpg');
+  margin-bottom: 100px;
+}
+
+label{
+  color: white;
+}
+
+.edit_img{
+
+  height: 150px;
+  width: 150px;
+  border-radius: 50px;
+  background-color: white;
+}
+
+.user_aside{
+  position:fixed;
+  background: white;
+  width: 340px;
+  height: 370px;
+}
+
+.all-post{
+  margin-top: 50px;
+}
+
+.caption{
+  display: flex;
+}
+
+.comment{
+  display: flex;
+}
+
+.left-caption{
+  margin-right: 40px;
+}
+
