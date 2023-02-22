@@ -94,7 +94,7 @@ class UsersController extends AppController
     }
 
 
-    
+    //add new line in project
     // function to view your profile
     // public function profile($id=null)
     // {
