@@ -90,10 +90,11 @@ class UsersController extends AppController
                 $this->Flash->error(__('The comment could not be saved. Please, try again.'));
             }
         }
-
       
     }
 
+
+    //add new line in project
     // function to view your profile
     // public function profile($id=null)
     // {
